@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0xFFFFFF" frameWidth="15" imagePadding="20" displayTime="6" enableRightClickOpen="true">
+<image>
+   <url>images/4.jpg</url>
+   <caption><![CDATA[<font size="50"></font><br><u><a href="http://www.airtightinteractive.com/projects/autoviewer"></a></u> ]]></caption>
+   <width>260</width>
+   <height>200</height>
+</image>
+<image>
+   <url>images/wide.jpg</url>
+   <caption></caption>
+   <width>260</width>
+   <height>200</height>
+</image>
+<image>
+   <url>images/1.png</url>
+   <caption><![CDATA[ <b></b> <u></u> <i></i> <u><a href="http://www.google.com" target="_blank"></a></u><br>  <font color="#ffff00" size="60"></font>]]></caption>
+   <width>260</width>
+   <height>200</height>
+</image>
+<image>
+   <url>images/2.jpg</url>
+   <caption></caption>
+   <width>260</width>
+   <height>200</height>
+</image>
+<image>
+   <url>images/3.jpg</url>
+   <caption></caption>
+   <width>260</width>
+   <height>200</height>
+</image>
+<image>
+   <url>images/4.jpg</url>
+   <caption></caption>
+   <width>260</width>
+   <height>200</height>
+</image>
+<image>
+   <url>images/5.jpg</url>
+   <caption><![CDATA[<br><br>]]></caption>
+   <width>260</width>
+   <height>200</height>
+</image>
+</gallery>

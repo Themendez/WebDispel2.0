@@ -1,0 +1,72 @@
+/*----------- collingarythomasgrasley (modetwentythree.com) collingrasley@gmail.com --- public domain template, because sharing is good ------- no link back required, but it would be real swell :) --------------------*/
+
+/* -----------------  page styles -------------------------------------------------------*/
+
+body { padding:0; margin:0; font:11px Verdana, sans-serif; line-height: 17px 0px; background:#f4f4f4 url(../images2/bodybg.gif) center repeat-y; color: #555; }
+#wrapper { margin:0px auto; width:900px;background:url(../../../img pagnew/bg.gif);}
+
+/* -----------------  general styles  -------------------------------------------------------*/
+
+/* -----------------  top info  -------------------------------------------------------*/
+
+#header { clear:both; width:900px; height:73px;  background:url(../images2/header3.png) repeat; 
+margin:0; }
+#title {float:left; width:240px; padding: 0px 0 0px 0px; background:url(../../../img pagnew/bg.gif);}
+#title h3 {font-size:12px; padding:5px 0 0 0; margin:0; color:#444;}
+
+#nueva  {float:left; width:100%;margin:0px 0px 0px 0px; background:url(../../avance09-04-2010/30/darkside-03/design/bg.gif) repeat;}
+#flash 	{float:right; width:100%;background:url(../../avance09-04-2010/30/darkside-03/design/bg.gif) repeat; algin:left;}
+#contservicios{float:right; width:100%;background:url(../images2/basesin.png) no-repeat; algin:left;}
+#contservicios1{float:right; width:100%;background:url(../images2/2.png) no-repeat; algin:left;}
+#contservicios2{float:right; width:100%;background:url(../images2/electronicos.png) no-repeat; algin:left;}
+#contservicios3{float:right; width:100%;background:url(../images2/instalacion.png) no-repeat; algin:left;}
+#contservicios4{float:right; width:100%;background:url(../images2/motores.png) no-repeat; algin:left;}
+#contservicios5{float:right; width:100%;background:url(../images2/mantenimyrepa.png) no-repeat; algin:left;}
+#contservicios6{float:right; width:100%;background:url(../images2/automatizacion.png) no-repeat; algin:left;}
+#contservicios7{float:right; width:100%;background:url(../images2/control.png) no-repeat; algin:left;}
+#contservicios8{float:right; width:100%;background:url(../images2/dise.png) no-repeat; algin:left;}
+#contlog{float:right; width:100%;background:url(../images2/contlog.png) no-repeat; algin:left;}
+#hrighttop {width: 300px;margin: 0 0px 0 0; padding: 0 0px 2px 0; float:right; text-align: right; font:Acens;}
+#averk { width:20px;}
+#averk2 { width: 400;margin: 0px opx 0 0; padding: 0px 0px 0px 0px; float:right; text-align: right; font:Acens;}
+#yuyu{ background:url(../images2/gris2.png) repeat;}
+#pie{background:url(../images2/diseño copy.png) repeat;}
+#contdob{ width:100%; height:10px; valgin:0;}
+#dividido{ width:90px; height:90px; valgin:0; background:url(../images2/cuadritov22.png) repeat;}
+#hrighttop2 {width: 615px;margin: 0 0px 0 0; padding: 0 0px 2px 0; float:right; text-align:left; font:Acens; background:url(../images2/cuadro3000d1.png) repeat;}
+#aaaaa{ width:30%;background:url(../images2/cuadritov22.png);}
+#login{ background:url(../images2/cuadrolog3.png) no-repeat; }
+#capalogin{ background:url(../images2/login.png) no-repeat;  }
+
+#capalogin{ background:url(../images2/login.png) no-repeat;  }
+#misionv{ background:url(../images2/mision.png) no-repeat;}
+#soporte{ background:url(../images2/soportes.png) no-repeat;}
+#flashmision { width:895px; height:300px; }
+#capdob {margin: 3px 3px 3px 3px ; padding: 10px 10px 10px 10px; }
+
+
+
+
+/* ----------------- Main content -------------------------------------------------------*/
+
+#homepic {width:900px; height:250px; margin:0px 0 0px 0;background:#000000;
+#homepic a {color:#fff;}
+
+
+
+#bottomcontent{width:898px; height:300px;background:url(../../../img pagnew/bg.gif) repeat;}
+
+
+
+/* ----------------- Bottom content -------------------------------------------------------*/
+
+#footer { clear: both; text-align:left; line-height: 1.8em; color: #444; background: #fff; padding: 4px 0; 
+margin:10px 0 0 0;}
+#footer a {color: #631e19; background: inherit;}
+
+#footerin { clear: both; text-align:left; line-height: 1.8em; color: #444; background: #fff; padding: 4px 0; 
+margin:10px 0 0 0;}
+#footer ab {color: #631e19; background: inherit;}
+
+#footermision { clear: both; text-align:left; line-height: 1.1em; color: #444; background: #fff; }
+#footer abc {color: #631e19; background: inherit;}

@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Di</title>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+<script src="../jquery.validate.js" type="text/javascript"></script>
+
+
+
+
+<style type="text/css">
+<!--
+* {margin:0; padding:0}
+body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #bfbfbf;
+	margin: 0; /* es recomendable ajustar a cero el margen y el relleno del elemento body para lograr la compatibilidad con la configuracin predeterminada de los diversos navegadores */
+	padding: 0;
+	text-align: center; /* esto centra el contenedor en los navegadores IE 5*. El texto se ajusta posteriormente con el valor predeterminado de alineacin a la izquierda en el selector #container */
+	color: #000000;
+}
+.error {
+font: normal 10px arial;
+padding: 3px;
+margin: 3px;
+background-color: #ffc;
+border: 1px solid #c00;
+}
+-->
+
+</style>
+<script type="text/javascript">
+$(document).ready(function(){
+$('#registerForm').validate();
+});
+</script>
+
+
+
+
+</head>
+
+<body>
+        <div align="left"> 
+          
+		   <form name="registerForm" id="registerForm"  action="#">
+		   <table align"left">
+		   <tr>
+	       <td>Password</td>
+	       <td><input name="pwd" type="password" id="pwd" class="required error" minlength="5"/></td>
+	       </tr>
+		   <tr>
+	       <td>Retype Password</td>
+	       <td><input name="pwdc" type="password" id="pwdc" class="required error" equalTo="#pwd" /></td>
+		   </tr>
+		   <tr>
+           <td>Website </td>
+	       <td><input name="web" type="text" id="web2" class="optional defaultInvalid url error"></td>
+	       <td><span class="example">http://www.example.com</span></td>
+		   </tr>
+		   <tr>
+	       <td>Phone</td>
+	       <td><input name="phone" type="text" id="phone" class="required NumbersOnly error" /></td>
+		   </tr>
+		   <tr>
+           <td align="left">User ID</td>
+           <td>
+           <input name="user_name" type="text" id="user_name" class="required username error" minlength="4" />
+           </td>
+           </tr>
+		   <tr>
+		   <td align="left" width="150">
+		   <input id="button" name="button" type="submit" value="Submit"/> 
+           </td>
+           </tr>		   
+		   </table>
+		   </form>
+		   
+		   
+		
+        </div>
+      
+</body>
+</html>

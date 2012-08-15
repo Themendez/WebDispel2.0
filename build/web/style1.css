@@ -1,0 +1,45 @@
+/* 
+    Document   : style1
+    Created on : 2/06/2010, 12:59:17 PM
+    Author     : oem
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+root { 
+    display: block;
+}
+
+* {margin:0; padding:0}
+body {
+	text-align:center;
+	font: 98% Verdana, Arial, Helvetica, sans-serif;
+	background: #ffffff;
+	margin:auto; 
+	padding: 0;
+}
+td {
+    text-align: left;
+
+}
+#form {
+	width:720px;
+        margin-top:2px; /*o loque quieras que se separen entre si*/
+        margin-left:auto;
+        margin-right:auto;
+        margin-bottom:0px;
+	float:left;
+}
+
+.error {
+font: normal 10px arial ;
+color: red;
+float:left;
+padding: 3px;
+margin: 3px;
+background-color: #bcc;
+border: 1px solid #bfb;
+}
+
+
